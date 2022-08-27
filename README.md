@@ -18,3 +18,6 @@ Practical
 Techology Used:
 
 HTML, CSS, BOOTSTRAP, CODEIGNITER, JQUERY, AJAX
+
+
+<img src="https://user-images.githubusercontent.com/112241005/187024385-94659ca4-43eb-445d-8f7a-c1199a520a2b.png" alt="Girl in a jacket" width="500" height="600"
