@@ -20,7 +20,9 @@ Techology Used:
 HTML, CSS, BOOTSTRAP, CODEIGNITER, JQUERY, AJAX
 
 **Login Screen : **
-<img width="960" alt="cart-page-2" src="https://user-images.githubusercontent.com/112241005/187024374-67330315-497d-4f18-8ccf-dd335cc2e68d.png">
+
+<img width="960" alt="login" src="https://user-images.githubusercontent.com/112241005/187024841-e0710657-2b47-47fa-b357-496f6c25455c.png">
+
 
 **Listing Page : **
 <img width="960" alt="add-cart-using-ajax" src="https://user-images.githubusercontent.com/112241005/187024369-99c5231c-800f-4b31-b3fe-97855715fd14.png">
