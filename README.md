@@ -20,6 +20,10 @@ Normal Codeigniter Setup
 Modify base_url as per need
 Import DB(in database folder of root structure)
 
+Login Credentials
+Username: admin
+Password: Netmeds@123
+
 Techology Used:
 
 HTML, CSS, BOOTSTRAP, CODEIGNITER, JQUERY, AJAX
