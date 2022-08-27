@@ -27,3 +27,21 @@ HTML, CSS, BOOTSTRAP, CODEIGNITER, JQUERY, AJAX
 **Listing Page : **
 
 ![Listing](https://user-images.githubusercontent.com/112241005/187024863-413a0647-bb04-4944-871b-fdc75af84b20.png)
+
+
+**Add Cart Option in Listing**
+
+<img width="960" alt="add-cart-using-ajax" src="https://user-images.githubusercontent.com/112241005/187024876-66981de9-c5eb-4e4e-935f-3eb34cc65724.png">
+
+
+**Search Functionality**
+
+<img width="960" alt="search-functionality" src="https://user-images.githubusercontent.com/112241005/187024898-93259ecc-9e13-4f8a-9b7c-3332a1990d87.png">
+
+
+**Cart Page Overview**
+
+![cart-page](https://user-images.githubusercontent.com/112241005/187024921-22459f90-823e-4706-921c-9bcb474d535b.png)
+
+
+
