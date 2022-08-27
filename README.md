@@ -33,6 +33,16 @@ HTML, CSS, BOOTSTRAP, CODEIGNITER, JQUERY, AJAX
 
 <img width="960" alt="add-cart-using-ajax" src="https://user-images.githubusercontent.com/112241005/187024876-66981de9-c5eb-4e4e-935f-3eb34cc65724.png">
 
+**User can remove product or increases and decreased quantity**
+
+<img width="960" alt="cart-3" src="https://user-images.githubusercontent.com/112241005/187025422-a991247d-5b81-4879-9baa-c2c211cf4cca.png">
+
+
+**Normal Cart**
+
+<img width="960" alt="normal" src="https://user-images.githubusercontent.com/112241005/187025470-cc361152-6330-4a10-b499-148a42588d7d.png">
+
+
 
 **Search Functionality**
 
