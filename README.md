@@ -25,10 +25,5 @@ HTML, CSS, BOOTSTRAP, CODEIGNITER, JQUERY, AJAX
 
 
 **Listing Page : **
-<img width="960" alt="add-cart-using-ajax" src="https://user-images.githubusercontent.com/112241005/187024369-99c5231c-800f-4b31-b3fe-97855715fd14.png">
-![cart-page](https://user-images.githubusercontent.com/112241005/187024371-5edc39e9-c600-48ec-8dcc-e906e4eb13d5.png)
 
-![Listing](https://user-images.githubusercontent.com/112241005/187024378-40d2823f-f868-4859-972f-8fd78ae205f6.png)
-<img width="960" alt="login" src="https://user-images.githubusercontent.com/112241005/187024382-ad7cbacb-5f11-4ca7-aaa0-9989d770eab9.png">
-<img width="960" alt="search-functionality" src="https://user-images.githubusercontent.com/112241005/187024385-94659ca4-43eb-445d-8f7a-c1199a520a2b.png">
-
+![Listing](https://user-images.githubusercontent.com/112241005/187024863-413a0647-bb04-4944-871b-fdc75af84b20.png)
