@@ -15,6 +15,11 @@ Practical
 => All the calculation are automatically performed
 => You can also remove product by clicking on cross button
 
+How To setup:
+Normal Codeigniter Setup
+Modify base_url as per need
+Import DB(in database folder of root structure)
+
 Techology Used:
 
 HTML, CSS, BOOTSTRAP, CODEIGNITER, JQUERY, AJAX
